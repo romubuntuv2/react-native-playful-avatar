@@ -1,6 +1,6 @@
 {
   "name": "react-native-playful-avatar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make Playful Avatar",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
