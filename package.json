@@ -1,7 +1,7 @@
 {
   "name": "react-native-playful-avatar",
-  "version": "0.0.2",
-  "description": "Make Playful Avatar",
+  "version": "0.0.3",
+  "description": "Make Playful Avatar for your React Native apps",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
@@ -43,7 +43,9 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "avatar",
+    "avatar-generator"
   ],
   "repository": {
     "type": "git",
