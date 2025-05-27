@@ -19,9 +19,10 @@ export const getHashCode = (text: string) => {
   if (text.length === 0) return hash;
   for (i = 0; i < text.length; i++) {
     chr = text.charCodeAt(i);
-    hash = (hash << 5) - hash + chr;
-    hash |= 0; // Convert to 32bit integer
+    hash = hash * 31 + chr;
+    hash = Math.trunc(hash); // Convert to 32bit integer
   }
+  console.log(hash);
   return hash;
 };
 
@@ -47,7 +48,7 @@ export const getRandomValue = (type: keyof TUserConfig) => {
 
 export const getIdByAvatarElement = (element: TAvatarElement) => {
   const list = AVATAR_ELEMENTS[element.type];
-  return list.findIndex((item) => item.name == element.name) + 1;
+  return list.findIndex((item) => item.name === element.name) + 1;
 };
 
 export const getRadiusByBackgroundShape = (shape: string) => {
@@ -69,8 +70,9 @@ const getColorDifferent = (
   otherElementColor: string | undefined,
   baseColor: string
 ) => {
-  if (typeColor == undefined || !checkIfIsHexColor(typeColor)) return baseColor;
-  if (typeColor == backgrondColor || typeColor == otherElementColor)
+  if (typeColor === undefined || !checkIfIsHexColor(typeColor))
+    return baseColor;
+  if (typeColor === backgrondColor || typeColor === otherElementColor)
     return baseColor;
   else return typeColor;
 };
@@ -131,6 +133,7 @@ export const genUserConfigBySeed = (seed: string) => {
     faceColor,
     haircutColor,
   };
+  console.log(userConfig);
   return userConfig;
 };
 
@@ -164,7 +167,7 @@ export const genConfig = (userConfig?: TUserConfig) => {
     return avatarConfig;
   } else {
     const backgroundColor =
-      userConfig.backgroundColor != undefined &&
+      userConfig.backgroundColor !== undefined &&
       checkIfIsHexColor(userConfig.backgroundColor)
         ? userConfig.backgroundColor
         : getRandomColor();
