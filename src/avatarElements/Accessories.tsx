@@ -1,4 +1,4 @@
-import { G, Path } from 'react-native-svg';
+import { Defs, G, LinearGradient, Path, Stop } from 'react-native-svg';
 
 export const AccessoriesComposer = (value: number, alone: boolean) => {
   switch (value) {
@@ -425,8 +425,8 @@ const circleEarring = (alone: boolean) => {
           fill="url(#paint2_linear_26_635)"
         />
       </G>
-      <defs>
-        <linearGradient
+      <Defs>
+        <LinearGradient
           id="paint0_linear_26_635"
           x1="467.057"
           y1="1053.29"
@@ -434,15 +434,15 @@ const circleEarring = (alone: boolean) => {
           y2="673.537"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF7300" />
-          <stop offset="0.1086" stop-color="#FF8D08" />
-          <stop offset="0.2899" stop-color="#FFB214" />
-          <stop offset="0.4716" stop-color="#FFCF1E" />
-          <stop offset="0.6514" stop-color="#FFE325" />
-          <stop offset="0.8286" stop-color="#FFF029" />
-          <stop offset="1" stop-color="#FFF42A" />
-        </linearGradient>
-        <linearGradient
+          <Stop stop-color="#FF7300" />
+          <Stop offset="0.1086" stop-color="#FF8D08" />
+          <Stop offset="0.2899" stop-color="#FFB214" />
+          <Stop offset="0.4716" stop-color="#FFCF1E" />
+          <Stop offset="0.6514" stop-color="#FFE325" />
+          <Stop offset="0.8286" stop-color="#FFF029" />
+          <Stop offset="1" stop-color="#FFF42A" />
+        </LinearGradient>
+        <LinearGradient
           id="paint1_linear_26_635"
           x1="467.058"
           y1="661.544"
@@ -450,15 +450,15 @@ const circleEarring = (alone: boolean) => {
           y2="704.725"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF7300" />
-          <stop offset="0.1086" stop-color="#FF8D08" />
-          <stop offset="0.2899" stop-color="#FFB214" />
-          <stop offset="0.4716" stop-color="#FFCF1E" />
-          <stop offset="0.6514" stop-color="#FFE325" />
-          <stop offset="0.8286" stop-color="#FFF029" />
-          <stop offset="1" stop-color="#FFF42A" />
-        </linearGradient>
-        <linearGradient
+          <Stop stop-color="#FF7300" />
+          <Stop offset="0.1086" stop-color="#FF8D08" />
+          <Stop offset="0.2899" stop-color="#FFB214" />
+          <Stop offset="0.4716" stop-color="#FFCF1E" />
+          <Stop offset="0.6514" stop-color="#FFE325" />
+          <Stop offset="0.8286" stop-color="#FFF029" />
+          <Stop offset="1" stop-color="#FFF42A" />
+        </LinearGradient>
+        <LinearGradient
           id="paint2_linear_26_635"
           x1="907.976"
           y1="1053.29"
@@ -466,15 +466,15 @@ const circleEarring = (alone: boolean) => {
           y2="673.538"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF7300" />
-          <stop offset="0.1086" stop-color="#FF8D08" />
-          <stop offset="0.2899" stop-color="#FFB214" />
-          <stop offset="0.4716" stop-color="#FFCF1E" />
-          <stop offset="0.6514" stop-color="#FFE325" />
-          <stop offset="0.8286" stop-color="#FFF029" />
-          <stop offset="1" stop-color="#FFF42A" />
-        </linearGradient>
-      </defs>
+          <Stop stop-color="#FF7300" />
+          <Stop offset="0.1086" stop-color="#FF8D08" />
+          <Stop offset="0.2899" stop-color="#FFB214" />
+          <Stop offset="0.4716" stop-color="#FFCF1E" />
+          <Stop offset="0.6514" stop-color="#FFE325" />
+          <Stop offset="0.8286" stop-color="#FFF029" />
+          <Stop offset="1" stop-color="#FFF42A" />
+        </LinearGradient>
+      </Defs>
     </>
   );
 };
