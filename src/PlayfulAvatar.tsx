@@ -22,7 +22,6 @@ import Svg, { Mask, Rect } from 'react-native-svg';
 
 interface PlayfulAvatarProps {
   style: ViewStyle;
-  seed?: string;
   backgroundColor?: string;
   backgroundShape?: TAvatarBackgroundShape;
   accessory?: TAvatarAccessory;
