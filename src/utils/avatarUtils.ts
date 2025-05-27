@@ -85,40 +85,34 @@ export const genUserConfigBySeed = (seed: string) => {
       hashCode % SEEDED_COLORS.backgroundColors.length
     ];
   const backgroundShape = 'Circle';
-  console.log((hashCode % AVATAR_ELEMENTS.accessory.length) + 1);
   const accessory = (
     AVATAR_ELEMENTS.accessory[
-      (hashCode % AVATAR_ELEMENTS.accessory.length) + 1
+      hashCode % AVATAR_ELEMENTS.accessory.length
     ] as TAvatarElement
   ).name as TAvatarAccessory;
-  console.log((hashCode % AVATAR_ELEMENTS.eyes.length) + 1);
   const eyes = (
     AVATAR_ELEMENTS.eyes[
-      (hashCode % AVATAR_ELEMENTS.eyes.length) + 1
+      hashCode % AVATAR_ELEMENTS.eyes.length
     ] as TAvatarElement
   ).name as TAvatarEyes;
-  console.log((hashCode % AVATAR_ELEMENTS.face.length) + 1);
   const face = (
     AVATAR_ELEMENTS.face[
-      (hashCode % AVATAR_ELEMENTS.face.length) + 1
+      hashCode % AVATAR_ELEMENTS.face.length
     ] as TAvatarElement
   ).name as TAvatarFace;
-  console.log((hashCode % AVATAR_ELEMENTS.mouth.length) + 1);
   const mouth = (
     AVATAR_ELEMENTS.mouth[
-      (hashCode % AVATAR_ELEMENTS.mouth.length) + 1
+      hashCode % AVATAR_ELEMENTS.mouth.length
     ] as TAvatarElement
   ).name as TAvatarMouth;
-  console.log((hashCode % AVATAR_ELEMENTS.outfit.length) + 1);
   const outfit = (
     AVATAR_ELEMENTS.outfit[
-      (hashCode % AVATAR_ELEMENTS.outfit.length) + 1
+      hashCode % AVATAR_ELEMENTS.outfit.length
     ] as TAvatarElement
   ).name as TAvatarOutfit;
-  console.log((hashCode % AVATAR_ELEMENTS.haircut.length) + 1);
   const haircut = (
     AVATAR_ELEMENTS.haircut[
-      (hashCode % AVATAR_ELEMENTS.haircut.length) + 1
+      hashCode % AVATAR_ELEMENTS.haircut.length
     ] as TAvatarElement
   ).name as TAvatarHaircut;
   const faceColor =
