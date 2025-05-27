@@ -75,7 +75,7 @@ const PlayfulAvatar = ({
 
   return (
     <View style={style}>
-      <Svg height="100%" width="100%" viewBox="0 0 1300 1300" fill="none">
+      <Svg height="100%" width="100%" viewBox="0 0 1300 1300">
         <Rect
           height={1300}
           width={1300}
