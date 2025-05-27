@@ -28,7 +28,7 @@ const PlayfulElement = ({
 
   return (
     <View style={style}>
-      <Svg height={'100%'} width={'100%'} viewBox="0 0 1300 1300" fill="none">
+      <Svg height={'100%'} width={'100%'} viewBox="0 0 1300 1300">
         <Composer id={id} color={color} element={element} />
       </Svg>
     </View>
