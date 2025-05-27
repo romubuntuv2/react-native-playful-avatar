@@ -20,6 +20,86 @@ export const EyesComposer = (value: number, alone: boolean) => {
   }
 };
 
+const thin = (transform: string) => {
+  return (
+    <G transform={transform} mask="url(#mask0_26_635)">
+      <Path
+        d="M745.802 526.549C755.216 527.849 762.491 517.882 759.068 508.349C757.356 503.149 754.36 498.382 749.653 495.349C735.104 486.249 680.759 485.382 652.088 506.182C626.841 525.249 703.01 520.482 745.802 526.549Z"
+        fill="#170E0E"
+        stroke="#170E0E"
+        strokeWidth="13"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Path
+        d="M864.333 531.316C856.631 531.316 851.924 521.349 855.775 513.116C857.915 508.782 860.91 504.882 865.189 502.716C878.455 496.216 913.972 500.116 929.805 522.216C943.926 541.716 899.851 530.882 864.333 531.316Z"
+        fill="#170E0E"
+        stroke="#170E0E"
+        strokeWidth="13"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Path
+        d="M730.824 581.149C703.437 567.282 660.218 577.682 660.218 577.682"
+        stroke="#170E0E"
+        stroke-width="13"
+        stroke-miterlimit="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <Path
+        d="M899.854 589.816C899.854 589.816 888.728 577.683 847.648 587.216"
+        stroke="#170E0E"
+        stroke-width="13"
+        stroke-miterlimit="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </G>
+  );
+};
+const closed = (transform: string) => {
+  return (
+    <G transform={transform} mask="url(#mask0_26_635)">
+      <Path
+        d="M743.042 526.549C752.576 527.849 759.942 517.882 756.476 508.349C754.742 503.149 751.709 498.382 746.942 495.349C732.209 486.249 677.176 485.382 648.142 506.182C622.576 525.249 699.709 520.482 743.042 526.549Z"
+        fill="#170E0E"
+        stroke="#170E0E"
+        strokeWidth="13"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Path
+        d="M863.074 531.316C855.274 531.316 850.508 521.349 854.408 513.116C856.574 508.782 859.608 504.882 863.941 502.716C877.374 496.216 913.341 500.116 929.374 522.216C943.674 541.716 899.041 530.882 863.074 531.316Z"
+        fill="#170E0E"
+        stroke="#170E0E"
+        strokeWidth="13"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Path
+        d="M727.875 581.149C694.075 595.449 656.375 577.682 656.375 577.682"
+        stroke="#170E0E"
+        stroke-width="13"
+        stroke-miterlimit="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <Path
+        d="M899.042 589.816C899.042 589.816 875.642 604.116 846.175 587.216"
+        stroke="#170E0E"
+        stroke-width="13"
+        stroke-miterlimit="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </G>
+  );
+};
 const angry = (transform: string) => {
   return (
     <G transform={transform}>
@@ -54,36 +134,6 @@ const angry = (transform: string) => {
       <Path
         d="M843.885 592.83C843.885 593.264 843.885 593.264 843.885 593.697L843.452 604.964C843.019 614.497 850.386 622.73 859.919 623.164C869.452 623.597 877.686 616.23 878.119 606.697L878.552 595.43C878.985 591.097 877.252 587.197 875.086 584.164C865.552 589.797 855.152 591.097 843.885 592.83Z"
         fill="#170E0E"
-      />
-    </G>
-  );
-};
-const closed = (transform: string) => {
-  return (
-    <G transform={transform} mask="url(#mask0_26_635)">
-      <Path
-        d="M743.042 526.549C752.576 527.849 759.942 517.882 756.476 508.349C754.742 503.149 751.709 498.382 746.942 495.349C732.209 486.249 677.176 485.382 648.142 506.182C622.576 525.249 699.709 520.482 743.042 526.549Z"
-        fill="#170E0E"
-      />
-      <Path
-        d="M863.074 531.316C855.274 531.316 850.508 521.349 854.408 513.116C856.574 508.782 859.608 504.882 863.941 502.716C877.374 496.216 913.341 500.116 929.374 522.216C943.674 541.716 899.041 530.882 863.074 531.316Z"
-        fill="#170E0E"
-      />
-      <Path
-        d="M727.875 581.149C694.075 595.449 656.375 577.682 656.375 577.682"
-        stroke="#170E0E"
-        stroke-width="13"
-        stroke-miterlimit="10"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      />
-      <Path
-        d="M899.042 589.816C899.042 589.816 875.642 604.116 846.175 587.216"
-        stroke="#170E0E"
-        stroke-width="13"
-        stroke-miterlimit="10"
-        stroke-linecap="round"
-        stroke-linejoin="round"
       />
     </G>
   );
@@ -198,36 +248,6 @@ const sad = (transform: string) => {
       <Path
         d="M866.788 528.573C859.422 526.407 857.255 515.573 863.322 508.64C866.355 505.173 870.688 502.14 875.455 501.273C890.188 498.673 923.988 512.107 933.522 537.673C942.188 559.773 901.888 537.24 866.788 528.573Z"
         fill="#170E0E"
-      />
-    </G>
-  );
-};
-const thin = (transform: string) => {
-  return (
-    <G transform={transform} mask="url(#mask0_26_635)">
-      <Path
-        d="M745.802 526.549C755.216 527.849 762.491 517.882 759.068 508.349C757.356 503.149 754.36 498.382 749.653 495.349C735.104 486.249 680.759 485.382 652.088 506.182C626.841 525.249 703.01 520.482 745.802 526.549Z"
-        fill="#170E0E"
-      />
-      <Path
-        d="M864.333 531.316C856.631 531.316 851.924 521.349 855.775 513.116C857.915 508.782 860.91 504.882 865.189 502.716C878.455 496.216 913.972 500.116 929.805 522.216C943.926 541.716 899.851 530.882 864.333 531.316Z"
-        fill="#170E0E"
-      />
-      <Path
-        d="M730.824 581.149C703.437 567.282 660.218 577.682 660.218 577.682"
-        stroke="#170E0E"
-        stroke-width="13"
-        stroke-miterlimit="10"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      />
-      <Path
-        d="M899.854 589.816C899.854 589.816 888.728 577.683 847.648 587.216"
-        stroke="#170E0E"
-        stroke-width="13"
-        stroke-miterlimit="10"
-        stroke-linecap="round"
-        stroke-linejoin="round"
       />
     </G>
   );
