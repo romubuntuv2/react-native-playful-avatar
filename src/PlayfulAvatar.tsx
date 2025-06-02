@@ -18,7 +18,7 @@ import type {
 } from './types';
 import { genConfig } from './utils/avatarUtils';
 import { View, type ViewStyle } from 'react-native';
-import Svg, { Mask, Rect } from 'react-native-svg';
+import Svg, { Rect } from 'react-native-svg';
 
 interface PlayfulAvatarProps {
   style: ViewStyle;
@@ -82,14 +82,14 @@ const PlayfulAvatar = ({
           fill={config.backgroundColor}
           rx={config.backgroundShapeRadius}
         />
-        <Mask id="mask0_26_635">
+        {/* <Mask id="mask0_26_635">
           <Rect
             height={1300}
             width={1300}
-            fill={'white'}
+            // fill={'black'}
             rx={config.backgroundShapeRadius}
           />
-        </Mask>
+        </Mask> */}
         <ColoredComposer
           elementID={config.faceID}
           composer={FaceComposer}

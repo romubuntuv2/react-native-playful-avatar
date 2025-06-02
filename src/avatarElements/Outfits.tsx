@@ -62,6 +62,7 @@ const hoodie = (transform: string) => {
         fill="#6060D8"
       />
       <Path
+        fill={'none'}
         d="M388.283 974.473C388.283 974.473 414.716 1077.17 530.416 1148.24"
         stroke="#423232"
         strokeWidth="13"
@@ -70,6 +71,7 @@ const hoodie = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M848.05 984.873C848.05 984.873 878.817 1117.91 811.65 1179.01"
         stroke="#423232"
         strokeWidth="13"
@@ -78,6 +80,7 @@ const hoodie = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M639.183 1158.64C639.183 1158.64 616.65 1224.51 622.717 1270.01"
         stroke="#423232"
         strokeWidth="13"
@@ -86,6 +89,7 @@ const hoodie = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M777.417 1154.74C777.417 1154.74 794.318 1191.57 806.451 1250.07"
         stroke="#423232"
         strokeWidth="13"
@@ -94,6 +98,7 @@ const hoodie = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M266.517 1026.04C266.517 1026.04 302.05 1170.77 513.517 1213.24"
         stroke="#423232"
         strokeWidth="13"
@@ -110,6 +115,7 @@ const hoodie = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M1016.62 1250.07C1016.62 1250.07 1040.88 1386.14 1031.35 1465.87"
         stroke="#544D4D"
         strokeWidth="13"
@@ -132,6 +138,7 @@ const yellowPolo = (transform: string) => {
         fill="#423232"
       />
       <Path
+        fill={'none'}
         d="M726.79 1120.11C726.79 1120.11 758.423 1138.31 757.556 1153.47C756.69 1168.64 765.79 1216.74 765.79 1216.74"
         stroke="#423232"
         stroke-width="13"
@@ -148,6 +155,7 @@ const yellowPolo = (transform: string) => {
         fill="#423232"
       />
       <Path
+        fill={'none'}
         d="M277.856 1466.34L258.356 1305.57"
         stroke="#544D4D"
         stroke-width="13"
@@ -156,6 +164,7 @@ const yellowPolo = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1034.46 1250.97C1034.46 1250.97 1021.46 1282.61 1025.36 1314.24C1029.26 1345.87 1040.52 1392.24 1024.49 1466.34"
         stroke="#544D4D"
         stroke-width="13"
@@ -175,6 +184,7 @@ const suit = (transform: string) => {
         fill="#474E51"
       />
       <Path
+        fill={'none'}
         d="M261.3 1466.05C261.3 1466.05 255.666 1325.65 250.033 1299.65"
         stroke="#544D4D"
         strokeWidth="13"
@@ -183,6 +193,7 @@ const suit = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1029.17 1466.05C1029.17 1466.05 1016.17 1378.95 1016.17 1363.78C1016.17 1349.05 1027.43 1300.51 1029.17 1258.05"
         stroke="#544D4D"
         strokeWidth="13"
@@ -221,6 +232,7 @@ const pastelSweater = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M277.962 1465.49L258.462 1304.72"
         stroke="#544D4D"
         stroke-width="13"
@@ -229,6 +241,7 @@ const pastelSweater = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1034.56 1250.12C1034.56 1250.12 1021.56 1281.75 1025.46 1313.39C1029.36 1345.02 1040.63 1391.39 1024.6 1465.49"
         stroke="#544D4D"
         stroke-width="13"
@@ -252,6 +265,7 @@ const aviator = (transform: string) => {
         fill="#544646"
       />
       <Path
+        fill={'none'}
         d="M277.648 1465.1L258.148 1304.33"
         stroke="white"
         strokeWidth="13"
@@ -260,6 +274,7 @@ const aviator = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1034.25 1249.73C1034.25 1249.73 1021.25 1281.37 1025.15 1313C1029.05 1344.63 1040.32 1391 1024.28 1465.1"
         stroke="white"
         strokeWidth="13"
@@ -300,6 +315,7 @@ const aviator = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M748.249 1211.17C716.615 1177.37 628.215 1097.2 601.348 1079.43C585.748 1069.03 568.849 1061.23 551.082 1055.6C438.415 1019.2 401.582 959.834 401.582 959.834L396.815 918.234"
         stroke="#443F3F"
         strokeWidth="13"
@@ -308,6 +324,7 @@ const aviator = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M768.615 1235C768.615 1235 758.215 1286.57 762.548 1311.7C766.882 1336.83 770.348 1411.8 770.348 1411.8"
         stroke="#443F3F"
         strokeWidth="13"
@@ -316,6 +333,7 @@ const aviator = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M888.215 973.7C888.215 973.7 866.981 1048.23 857.015 1077.7C846.615 1107.17 799.381 1166.1 786.381 1194.27"
         stroke="#443F3F"
         strokeWidth="13"
@@ -339,6 +357,7 @@ const whiteScarf = (transform: string) => {
         fill="#544D4D"
       />
       <Path
+        fill={'none'}
         d="M277.551 1466.02L258.051 1305.25"
         stroke="white"
         strokeWidth="13"
@@ -347,6 +366,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1034.15 1250.65C1034.15 1250.65 1021.15 1282.29 1025.05 1313.92C1028.95 1345.55 1040.22 1391.92 1024.18 1466.02"
         stroke="white"
         strokeWidth="13"
@@ -359,6 +379,7 @@ const whiteScarf = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M751.184 954.254C735.151 958.588 715.651 962.054 690.518 962.921C541.018 968.554 477.751 883.621 455.218 859.354"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -371,6 +392,7 @@ const whiteScarf = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M745.551 1235.05C778.918 1164.42 791.051 1113.72 792.785 1075.59C795.385 1021.85 769.385 972.021 759.851 951.654"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -379,6 +401,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M728.651 1335.15C728.217 1306.99 734.717 1258.02 745.551 1235.05C778.917 1164.42 791.051 1113.72 792.784 1075.59"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -387,6 +410,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M767.218 1183.92C767.218 1183.92 635.485 1196.92 548.818 1131.49"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -395,6 +419,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M802.752 955.554C814.885 973.321 828.752 999.321 832.219 1031.39"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -403,6 +428,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M857.785 1415.32C857.785 1415.32 835.685 1368.52 857.785 1266.69C881.185 1158.35 870.352 1105.05 870.352 1105.05"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -411,6 +437,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M376.351 961.621C376.351 961.621 405.385 1021.42 440.485 1049.15"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -419,6 +446,7 @@ const whiteScarf = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M789.319 1105.05C789.319 1105.05 706.985 1110.69 648.919 1088.15"
         stroke="#CCCCCC"
         strokeWidth="13"
@@ -481,6 +509,7 @@ const yellowDots = (transform: string) => {
         />
       </G>
       <Path
+        fill={'none'}
         d="M827.32 939.467C827.32 939.467 832.953 978.467 822.987 1000.57C806.953 1036.97 695.587 1078.57 560.82 1030.03C453.787 991.467 401.353 938.167 400.053 929.934"
         stroke="#329369"
         strokeWidth="13"
@@ -489,6 +518,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M481.087 862.767C478.92 865.367 476.754 868.834 475.02 873.167C468.954 887.901 467.22 918.667 467.22 918.667"
         stroke="#329369"
         strokeWidth="13"
@@ -497,6 +527,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M554.32 907.4C552.587 910.867 550.854 914.767 549.987 919.1C547.82 930.367 545.22 965.9 545.22 965.9"
         stroke="#329369"
         strokeWidth="13"
@@ -505,6 +536,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M627.987 937.734C627.12 941.2 626.254 945.534 625.82 950.734C624.954 956.8 625.387 993.634 625.387 993.634"
         stroke="#329369"
         strokeWidth="13"
@@ -513,6 +545,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M706.854 955.067C707.72 965.034 708.154 978.9 706.854 995.8"
         stroke="#329369"
         strokeWidth="13"
@@ -521,6 +554,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M773.154 951.601C774.454 959.834 775.754 971.1 776.187 985.4"
         stroke="#329369"
         strokeWidth="13"
@@ -529,6 +563,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M433.854 820.3C423.454 824.2 409.587 834.6 404.387 864.934"
         stroke="#329369"
         strokeWidth="13"
@@ -537,6 +572,7 @@ const yellowDots = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M878.453 965.033C856.353 952.9 838.153 944.233 827.32 939.467V914.333"
         stroke="#329369"
         strokeWidth="13"
@@ -560,6 +596,7 @@ const purpleCardigan = (transform: string) => {
         fill="#E89D6B"
       />
       <Mask
+        fill={'black'}
         id="Mask0_26_635"
         maskUnits="userSpaceOnUse"
         x="62"
@@ -603,6 +640,7 @@ const purpleCardigan = (transform: string) => {
         />
       </G>
       <Path
+        fill={'none'}
         d="M277.076 1466.03L257.576 1305.27"
         stroke="#544D4D"
         stroke-width="13"
@@ -611,6 +649,7 @@ const purpleCardigan = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1033.68 1250.67C1033.68 1250.67 1020.68 1282.3 1024.58 1313.93C1028.48 1345.57 1039.74 1391.93 1023.71 1466.03"
         stroke="#544D4D"
         stroke-width="13"
@@ -650,6 +689,7 @@ const redAndDiamonds = (transform: string) => {
         fill="#CE3E3E"
       />
       <Mask
+        fill={'white'}
         id="Mask1_26_635"
         maskUnits="userSpaceOnUse"
         x="62"
@@ -665,7 +705,7 @@ const redAndDiamonds = (transform: string) => {
       <G mask="url(#Mask1_26_635)">
         <Path
           d="M119.11 1306.5C83.5762 1306.5 51.5095 1283.97 39.8095 1250.6C32.0095 1229.37 33.3095 1206.4 42.8429 1186.03C52.3762 1165.67 69.2762 1150.07 90.5095 1142.7C99.6095 1139.23 109.143 1137.5 119.11 1137.5C154.643 1137.5 186.71 1160.03 198.41 1193.4C214.01 1237.17 191.476 1285.7 147.71 1301.3C138.61 1304.77 129.076 1306.5 119.11 1306.5Z"
-          stroke="#6F2696"
+          stroke="white"
           strokeWidth="13"
           strokeMiterlimit="10"
           strokeLinecap="round"
@@ -684,6 +724,7 @@ const redAndDiamonds = (transform: string) => {
           fill="white"
         />
         <Path
+          fill={'none'}
           d="M312.377 896.567C276.843 896.567 244.777 874.034 233.077 840.667C217.477 796.9 240.01 748.367 283.777 732.767C292.877 729.3 302.41 727.567 312.377 727.567C347.91 727.567 379.977 750.1 391.677 783.467C407.277 827.234 384.743 875.767 340.977 891.367C331.877 894.834 322.343 896.567 312.377 896.567Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -692,6 +733,7 @@ const redAndDiamonds = (transform: string) => {
           strokeLinejoin="round"
         />
         <Path
+          fill={'none'}
           d="M367.842 1307.37C332.309 1307.37 300.242 1284.83 288.542 1251.47C280.742 1230.23 282.042 1207.27 291.576 1186.9C301.109 1166.53 318.009 1150.93 339.242 1143.57C348.342 1140.1 357.876 1138.37 367.842 1138.37C403.376 1138.37 435.442 1160.9 447.142 1194.27C454.942 1215.5 453.642 1238.47 444.109 1258.83C434.576 1279.2 417.676 1294.8 396.442 1302.17C387.342 1305.63 377.376 1307.37 367.842 1307.37Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -704,6 +746,7 @@ const redAndDiamonds = (transform: string) => {
           fill="white"
         />
         <Path
+          fill={'none'}
           d="M464.91 1100.67C429.376 1100.67 397.31 1078.13 385.61 1044.77C377.81 1023.53 379.11 1000.57 388.643 980.2C398.176 959.834 415.076 944.234 436.31 936.867C445.41 933.4 454.943 931.667 464.91 931.667C500.443 931.667 532.51 954.2 544.21 987.567C552.01 1008.8 550.71 1031.77 541.176 1052.13C531.643 1072.5 514.743 1088.1 493.51 1095.47C484.41 1098.93 474.876 1100.67 464.91 1100.67Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -721,6 +764,7 @@ const redAndDiamonds = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M277.276 1464.67L257.776 1304.33"
         stroke="#544D4D"
         strokeWidth="13"
@@ -729,6 +773,7 @@ const redAndDiamonds = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1033.88 1249.3C1033.88 1249.3 1020.88 1280.93 1024.78 1312.57C1028.68 1344.2 1039.94 1390.57 1023.91 1464.67"
         stroke="#544D4D"
         strokeWidth="13"
@@ -741,6 +786,7 @@ const redAndDiamonds = (transform: string) => {
         fill="#CC5292"
       />
       <Path
+        fill={'none'}
         d="M425.476 936.434C425.909 962.434 436.309 987.567 454.509 1006.2C483.542 1036.1 543.776 1075.1 612.676 1086.8C778.642 1114.53 823.709 1042.17 822.409 1003.6"
         stroke="#993665"
         strokeWidth="13"
@@ -749,6 +795,7 @@ const redAndDiamonds = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M708.443 944.234C708.443 944.234 744.843 948.567 743.976 988.867C743.11 1029.17 744.843 1085.07 744.843 1085.07"
         stroke="#993665"
         strokeWidth="13"
@@ -790,6 +837,7 @@ const outfit10 = (transform: string) => {
       </Mask>
       <G mask="url(#Mask1_26_635)">
         <Path
+          fill={'none'}
           d="M119.11 1306.5C83.5762 1306.5 51.5095 1283.97 39.8095 1250.6C32.0095 1229.37 33.3095 1206.4 42.8429 1186.03C52.3762 1165.67 69.2762 1150.07 90.5095 1142.7C99.6095 1139.23 109.143 1137.5 119.11 1137.5C154.643 1137.5 186.71 1160.03 198.41 1193.4C214.01 1237.17 191.476 1285.7 147.71 1301.3C138.61 1304.77 129.076 1306.5 119.11 1306.5Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -802,6 +850,7 @@ const outfit10 = (transform: string) => {
           fill="white"
         />
         <Path
+          fill={'none'}
           d="M216.61 1100.23C181.076 1100.23 149.01 1077.7 137.31 1044.33C129.51 1023.1 130.81 1000.13 140.343 979.767C149.876 959.4 166.776 943.8 188.01 936.434C197.11 932.967 206.643 931.234 216.61 931.234C252.143 931.234 284.21 953.767 295.91 987.134C303.71 1008.37 302.41 1031.33 292.876 1051.7C283.343 1072.07 266.443 1087.67 245.21 1095.03C235.676 1098.5 226.143 1100.23 216.61 1100.23Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -814,6 +863,7 @@ const outfit10 = (transform: string) => {
           fill="white"
         />
         <Path
+          fill={'none'}
           d="M312.377 896.567C276.843 896.567 244.777 874.034 233.077 840.667C217.477 796.9 240.01 748.367 283.777 732.767C292.877 729.3 302.41 727.567 312.377 727.567C347.91 727.567 379.977 750.1 391.677 783.467C407.277 827.234 384.743 875.767 340.977 891.367C331.877 894.834 322.343 896.567 312.377 896.567Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -822,6 +872,7 @@ const outfit10 = (transform: string) => {
           strokeLinejoin="round"
         />
         <Path
+          fill={'none'}
           d="M367.842 1307.37C332.309 1307.37 300.242 1284.83 288.542 1251.47C280.742 1230.23 282.042 1207.27 291.576 1186.9C301.109 1166.53 318.009 1150.93 339.242 1143.57C348.342 1140.1 357.876 1138.37 367.842 1138.37C403.376 1138.37 435.442 1160.9 447.142 1194.27C454.942 1215.5 453.642 1238.47 444.109 1258.83C434.576 1279.2 417.676 1294.8 396.442 1302.17C387.342 1305.63 377.376 1307.37 367.842 1307.37Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -834,6 +885,7 @@ const outfit10 = (transform: string) => {
           fill="white"
         />
         <Path
+          fill={'none'}
           d="M464.91 1100.67C429.376 1100.67 397.31 1078.13 385.61 1044.77C377.81 1023.53 379.11 1000.57 388.643 980.2C398.176 959.834 415.076 944.234 436.31 936.867C445.41 933.4 454.943 931.667 464.91 931.667C500.443 931.667 532.51 954.2 544.21 987.567C552.01 1008.8 550.71 1031.77 541.176 1052.13C531.643 1072.5 514.743 1088.1 493.51 1095.47C484.41 1098.93 474.876 1100.67 464.91 1100.67Z"
           stroke="#6F2696"
           strokeWidth="13"
@@ -851,6 +903,7 @@ const outfit10 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M277.276 1464.67L257.776 1304.33"
         stroke="#544D4D"
         strokeWidth="13"
@@ -859,6 +912,7 @@ const outfit10 = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1033.88 1249.3C1033.88 1249.3 1020.88 1280.93 1024.78 1312.57C1028.68 1344.2 1039.94 1390.57 1023.91 1464.67"
         stroke="#544D4D"
         strokeWidth="13"
@@ -871,6 +925,7 @@ const outfit10 = (transform: string) => {
         fill="#CC5292"
       />
       <Path
+        fill={'none'}
         d="M425.476 936.434C425.909 962.434 436.309 987.567 454.509 1006.2C483.542 1036.1 543.776 1075.1 612.676 1086.8C778.642 1114.53 823.709 1042.17 822.409 1003.6"
         stroke="#993665"
         strokeWidth="13"
@@ -879,6 +934,7 @@ const outfit10 = (transform: string) => {
         strokeLinejoin="round"
       />
       <Path
+        fill={'none'}
         d="M708.443 944.234C708.443 944.234 744.843 948.567 743.976 988.867C743.11 1029.17 744.843 1085.07 744.843 1085.07"
         stroke="#993665"
         strokeWidth="13"
@@ -905,6 +961,7 @@ const outfit11 = (transform: string) => {
         fill="#A862F9"
       />
       <Path
+        fill={'none'}
         d="M1017.41 1249.7C1017.41 1249.7 1041.68 1385.77 1032.14 1465.5"
         stroke="#544D4D"
         stroke-width="13"
@@ -917,6 +974,7 @@ const outfit11 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M370.876 927.3C377.376 944.2 368.276 944.2 379.976 963.267C385.61 972.367 399.476 977.567 408.143 988.4C415.076 997.067 416.81 1012.23 425.91 1021.33C434.143 1029.57 448.876 1031.3 458.843 1039.53C467.943 1046.9 472.71 1061.2 483.543 1067.7C493.51 1073.77 508.243 1072.47 519.51 1077.67C529.91 1082.87 538.143 1095.43 549.843 1099.33C561.11 1103.23 574.976 1098.47 587.543 1101.07C602.71 1104.53 615.71 1115.8 629.576 1117.53C645.61 1119.7 660.776 1111.9 674.21 1111.9C690.243 1111.9 705.843 1118.83 718.843 1116.23C734.876 1113.2 745.71 1100.2 757.843 1093.7C772.143 1086.33 788.61 1084.17 798.143 1073.77C808.543 1062.5 808.543 1045.17 813.743 1031.73C819.376 1017.43 830.643 1004.87 831.51 990.567C832.376 974.967 822.41 960.667 818.943 947.667"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -945,6 +1003,7 @@ const outfit11 = (transform: string) => {
         fill="#A862F9"
       />
       <Path
+        fill={'none'}
         d="M477.909 932.5C477.909 932.5 448.009 948.1 439.776 962.4"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -953,6 +1012,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M521.242 974.967C521.242 974.967 496.542 1004.43 493.509 1014.83"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -961,6 +1021,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M577.143 1010.93C577.143 1010.93 564.143 1036.5 560.243 1050.37"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -969,6 +1030,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M641.276 1027.4C641.276 1027.4 639.543 1051.23 641.276 1069"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -977,6 +1039,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M705.41 1022.63C705.41 1022.63 714.076 1048.63 717.543 1065.1"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -985,6 +1048,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M747.009 989.267C747.009 989.267 770.842 1006.6 774.742 1018.73"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -993,6 +1057,7 @@ const outfit11 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M756.543 952C756.543 952 778.643 952.867 787.743 966.733"
         stroke="#E2E2E2"
         stroke-width="13"
@@ -1029,6 +1094,7 @@ const outfit12 = (transform: string) => {
       </Mask>
       <G mask="url(#Mask1_26_635)">
         <Path
+          fill={'none'}
           d="M453.64 947.267C499.14 1011.4 620.474 1109.33 717.54 1127.97C763.907 1136.63 830.207 977.6 769.973 913.467C718.407 858.434 499.14 844.134 464.04 868.4C421.14 897 442.374 931.667 453.64 947.267Z"
           stroke="#FFFF8D"
           stroke-width="21.6667"
@@ -1040,6 +1106,7 @@ const outfit12 = (transform: string) => {
         fill="#FFFF8D"
       />
       <Path
+        fill={'none'}
         d="M277.274 1453.4L257.774 1293.07"
         stroke="#544D4D"
         stroke-width="13"
@@ -1048,6 +1115,7 @@ const outfit12 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1033.87 1238.03C1033.87 1238.03 1020.87 1269.67 1024.77 1301.3C1028.67 1332.93 1039.94 1379.3 1023.91 1453.4"
         stroke="#544D4D"
         stroke-width="13"
@@ -1092,6 +1160,7 @@ const outfit12 = (transform: string) => {
         fill="#FFBE71"
       />
       <Path
+        fill={'none'}
         d="M978.84 1053.87C953.274 1061.23 935.074 1072.93 922.074 1085.5C893.04 1112.8 889.14 1143.57 889.14 1143.57"
         stroke="#894B33"
         stroke-width="13"
@@ -1100,6 +1169,7 @@ const outfit12 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M474.006 1127.53C474.006 1127.53 456.24 1103.7 423.74 1079.87C402.506 1064.27 374.773 1048.67 341.406 1039.57"
         stroke="#894B33"
         stroke-width="13"
@@ -1126,6 +1196,7 @@ const outfit13 = (transform: string) => {
         fill="#FFFF8D"
       />
       <Path
+        fill={'none'}
         d="M277.274 1463.38L257.774 1303.04"
         stroke="#544D4D"
         stroke-width="13"
@@ -1134,6 +1205,7 @@ const outfit13 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1033.87 1248.01C1033.87 1248.01 1020.87 1279.64 1024.77 1311.28C1028.67 1342.91 1039.94 1389.28 1023.91 1463.38"
         stroke="#544D4D"
         stroke-width="13"
@@ -1186,6 +1258,7 @@ const outfit13 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M670.307 1090.71C668.574 1089.41 666.841 1088.11 665.107 1086.81"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1193,6 +1266,7 @@ const outfit13 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M630.008 1063.41C595.341 1044.34 556.774 1032.21 511.274 1019.64C406.408 990.175 334.908 999.708 244.341 972.408C239.574 971.108 233.941 969.375 228.741 967.208"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1201,6 +1275,7 @@ const outfit13 = (transform: string) => {
         stroke-dasharray="12.57 12.57"
       />
       <Path
+        fill={'none'}
         d="M212.274 954.642C211.407 952.908 210.974 950.742 210.974 948.575"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1216,6 +1291,7 @@ const outfit13 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M762.607 1096.78C762.607 1096.78 764.34 1095.04 767.374 1092.44"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1223,6 +1299,7 @@ const outfit13 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M802.907 1067.74C825.007 1054.74 856.207 1039.14 897.374 1026.14C962.374 1005.78 1018.71 1007.08 1051.64 1007.08"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1231,6 +1308,7 @@ const outfit13 = (transform: string) => {
         stroke-dasharray="12.99 12.99"
       />
       <Path
+        fill={'none'}
         d="M1073.74 1006.64C1076.34 1006.21 1078.51 1005.78 1080.24 1005.34"
         stroke="#C3CAD1"
         stroke-width="13"
@@ -1280,6 +1358,7 @@ const outfit14 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M723.681 1153.97C723.681 1153.97 686.414 1254.07 714.148 1271.84C741.881 1289.61 740.148 1176.94 740.148 1176.94C740.148 1176.94 762.248 1268.81 797.781 1258.84C832.881 1248.44 747.514 1149.21 741.014 1147.47"
         stroke="white"
         stroke-width="13"
@@ -1319,6 +1398,7 @@ const outfit14 = (transform: string) => {
         fill="#F7F7F7"
       />
       <Path
+        fill={'none'}
         d="M433.782 871.005C433.782 871.005 416.882 898.739 415.582 925.605C414.282 952.039 464.982 1043.47 561.615 1093.31C666.482 1147.47 738.415 1137.94 738.415 1137.94C738.415 1137.94 807.315 1104.14 827.682 1044.34C845.882 990.172 824.649 942.505 815.549 926.038"
         stroke="#D8D8D8"
         stroke-width="13"
@@ -1326,6 +1406,7 @@ const outfit14 = (transform: string) => {
         stroke-linecap="round"
       />
       <Path
+        fill={'none'}
         d="M738.848 1137.94C738.848 1137.94 743.615 1016.61 730.181 945.539"
         stroke="#D8D8D8"
         stroke-width="13"
@@ -1355,6 +1436,7 @@ const outfit15 = (transform: string) => {
         fill="#444444"
       />
       <Path
+        fill={'none'}
         d="M275.858 1465.97L256.358 1305.63"
         stroke="#544D4D"
         stroke-width="13"
@@ -1363,6 +1445,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1032.46 1250.6C1032.46 1250.6 1019.46 1282.23 1023.36 1313.87C1027.26 1345.5 1038.53 1391.87 1022.49 1465.97"
         stroke="#544D4D"
         stroke-width="13"
@@ -1371,6 +1454,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M276.726 1718.6C276.726 1718.6 280.626 1503.23 276.726 1278.33C272.826 1053.43 431.859 1003.6 431.859 1003.6C431.859 1003.6 445.726 955.5 468.692 940.767"
         stroke="white"
         stroke-width="13"
@@ -1379,6 +1463,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M469.558 1718.6C444.425 1095.03 525.458 1088.97 525.458 1088.97C525.458 1088.97 526.325 1059.5 547.992 1030.47"
         stroke="white"
         stroke-width="13"
@@ -1387,6 +1472,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M647.225 1718.6C663.258 1569.97 647.225 1140.97 647.225 1140.97C647.225 1140.97 655.458 1103.7 650.692 1075.97"
         stroke="white"
         stroke-width="13"
@@ -1395,6 +1481,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M850.458 1718.6C869.092 1261.87 781.558 1115.83 781.558 1115.83C781.558 1115.83 775.925 1076.83 752.525 1060.8"
         stroke="white"
         stroke-width="13"
@@ -1403,6 +1490,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M1013.39 1718.6C1013.39 1718.6 1047.62 1532.7 1004.72 1305.63C961.825 1078.57 817.958 1020.5 817.958 1020.5C817.958 1020.5 794.558 981.067 766.392 982.8"
         stroke="white"
         stroke-width="13"
@@ -1411,6 +1499,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M211.725 1020.5C211.725 1020.5 215.192 1105.87 315.725 1106.3C315.725 1106.3 362.958 1228.93 480.825 1206.83C480.825 1206.83 551.458 1319.5 650.258 1244.53C650.258 1244.53 761.192 1310.83 817.092 1220.7C817.092 1220.7 930.191 1250.6 941.458 1138.37C941.458 1138.37 1004.29 1124.93 993.025 1041.3"
         stroke="white"
         stroke-width="13"
@@ -1419,6 +1508,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M313.125 953.767C313.125 953.767 285.391 1008.37 360.791 1049.1C360.791 1049.1 371.625 1131.43 492.958 1149.63C492.958 1149.63 554.925 1226.33 649.391 1198.6C649.391 1198.6 768.991 1246.7 803.225 1168.27C803.225 1168.27 899.858 1167.83 884.258 1066.87C884.258 1066.87 916.758 1030.9 888.158 973.7"
         stroke="white"
         stroke-width="13"
@@ -1427,6 +1517,7 @@ const outfit15 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M388.525 921.7C388.525 921.7 379.425 970.234 432.292 1003.6C432.292 1003.6 435.325 1062.97 525.459 1088.97C525.459 1088.97 566.625 1148.77 647.659 1140.97C647.659 1140.97 746.892 1177.8 781.992 1115.83C781.992 1115.83 839.625 1082.9 817.525 1020.07C817.525 1020.07 826.625 973.7 790.659 937.734"
         stroke="white"
         stroke-width="13"
@@ -1561,6 +1652,7 @@ const outfit18 = (transform: string) => {
         fill="#FFF573"
       />
       <Path
+        fill={'none'}
         d="M352.733 956.699C421.633 1052.47 544.7 1101 666.033 1126.57C836.333 1162.53 1002.73 1153 1007.93 1165.13"
         stroke="#FFAD76"
         stroke-width="13"
@@ -1639,6 +1731,7 @@ const outfit19 = (transform: string) => {
         fill="#BF76FF"
       />
       <Path
+        fill={'none'}
         d="M304.2 988.772C744.9 1470.21 948.133 1171.21 908.7 1040.34C908.266 1039.47 908.266 1038.17 907.833 1036.87"
         stroke="#A164DD"
         stroke-width="13"
@@ -1693,6 +1786,7 @@ const outfit20 = (transform: string) => {
         fill="#647184"
       />
       <Path
+        fill={'none'}
         d="M594.97 1203.8C660.836 1207.7 743.17 1209 812.07 1199.03C858.436 1192.53 900.47 1226.77 903.936 1273.13C906.97 1319.07 908.27 1374.97 900.903 1423.93C885.736 1529.67 507.436 1524.47 501.37 1431.3C497.903 1383.2 494.87 1344.2 491.403 1312.13C484.903 1251.9 534.303 1200.33 594.97 1203.8Z"
         stroke="#647184"
         stroke-width="13"
@@ -1703,6 +1797,7 @@ const outfit20 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M721.07 1054.73C721.07 1054.73 641.77 1150.93 617.504 1143.57C593.237 1136.2 442.437 1056.03 418.604 919.1"
         stroke="#D0D6DD"
         stroke-width="13"
@@ -1715,6 +1810,7 @@ const outfit20 = (transform: string) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M721.069 1054.73C721.069 1054.73 782.603 1126.67 802.969 1127.53C823.336 1128.4 832.003 1001.87 770.903 937.734"
         stroke="#D0D6DD"
         stroke-width="13"
@@ -1723,6 +1819,7 @@ const outfit20 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M715.003 1061.67C715.003 1061.67 702.869 1075.1 707.203 1104.57C711.536 1133.6 710.669 1162.63 710.669 1162.63"
         stroke="#D0D6DD"
         stroke-width="13"
@@ -1753,6 +1850,7 @@ const outfit21 = (transform: string) => {
         fill="#444444"
       />
       <Path
+        fill={'none'}
         d="M366.123 940.334C366.123 940.334 450.19 1109.77 595.79 1202.5C609.223 1211.17 626.99 1207.7 636.523 1195.13L716.257 1091.13L810.723 1175.63C821.557 1185.6 839.323 1179.97 842.79 1165.67C851.023 1129.27 857.523 1061.67 826.757 971.534"
         stroke="white"
         stroke-width="13"
@@ -1761,6 +1859,7 @@ const outfit21 = (transform: string) => {
         stroke-linejoin="round"
       />
       <Path
+        fill={'none'}
         d="M737.057 1464.67C748.324 1335.1 716.257 1091.57 716.257 1091.57"
         stroke="white"
         stroke-width="13"
@@ -1817,6 +1916,7 @@ const outfit22 = (transform: string) => {
       </Mask>
       <G mask="url(#Mask1_26_635)">
         <Path
+          fill={'none'}
           d="M270.399 1020.26C319.799 977.36 321.099 1008.56 399.099 983.86C433.766 973.026 471.899 939.226 522.599 935.326C561.599 932.293 604.499 957.86 652.599 963.06C692.466 967.393 739.699 950.493 785.633 962.193C824.633 972.16 858.433 1009.43 902.633 1026.33"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1825,6 +1925,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M271.7 1069.66C327.6 1033.26 324.566 1065.33 405.166 1044.09C441.133 1034.56 481 1001.19 532.133 997.726C572 994.693 616.2 1020.69 664.733 1024.59C705.466 1028.06 753.133 1008.56 799.933 1018.96C840.666 1027.63 876.2 1064.46 921.266 1079.63"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1833,6 +1934,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M272.566 1119.06C333.666 1089.59 327.166 1121.66 410.366 1104.33C447.633 1096.53 489.233 1063.16 540.799 1059.69C581.966 1057.09 627.033 1083.09 676.433 1086.13C718.466 1088.73 766.566 1067.49 814.233 1075.73C856.266 1083.09 894.399 1119.06 940.333 1132.06"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1841,6 +1943,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M273.866 1168.89C338.866 1145.93 329.766 1177.99 415.133 1164.13C453.7 1157.63 497.033 1125.13 549.466 1121.66C591.933 1119.06 638.3 1145.93 688.133 1147.66C731.466 1149.39 780 1125.99 828.1 1132.49C871.866 1138.56 912.166 1173.66 958.966 1184.49"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1849,6 +1952,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M275.167 1218.73C343.633 1202.26 332.366 1233.89 419.466 1223.06C459.333 1218.29 504.833 1185.79 557.7 1183.19C601.033 1181.03 649.133 1208.33 699.4 1209.63C744.466 1210.49 793 1185.36 841.966 1190.13C887.466 1194.46 930.367 1228.69 978.033 1237.36"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1857,6 +1961,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M276.466 1268.56C347.966 1257.73 334.532 1288.93 423.366 1281.99C464.532 1278.53 511.766 1246.89 565.932 1244.73C610.566 1242.99 659.532 1271.16 710.666 1271.59C757.032 1272.03 806.432 1244.73 856.266 1247.76C903.499 1250.79 948.999 1283.73 997.532 1289.36"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1865,6 +1970,7 @@ const outfit22 = (transform: string) => {
           stroke-linejoin="round"
         />
         <Path
+          fill={'none'}
           d="M277.333 1318.83C351 1313.63 335.833 1343.96 426.833 1340.49C469.3 1338.76 518.7 1307.56 573.733 1306.26C620.1 1305.39 669.933 1334.43 721.933 1334.43C769.6 1334.43 819.866 1305.39 870.133 1306.69C919.1 1307.99 967.2 1339.63 1016.6 1342.66"
           stroke="#6D5F5E"
           stroke-width="17.3333"
@@ -1892,6 +1998,7 @@ const outfit23 = (transform: string) => {
           <G opacity="0.25">
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M36.3994 1010.97C124.366 962.434 112.666 1012.7 240.499 988C295.099 977.6 356.633 929.934 435.066 926.467C494.866 923.867 561.166 963.734 634.833 968.934C696.366 973.267 767.433 941.634 838.499 953.334C900.466 963.3 957.666 1015.3 1027 1032.2"
                 stroke="#6D5F5E"
@@ -1903,6 +2010,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M38.1323 1060.37C133.032 1020.93 117.866 1070.77 247.866 1049.53C304.632 1040.43 368.766 992.334 448.066 988.867C510.032 986.267 578.066 1026.57 653.032 1030.47C716.732 1033.93 788.666 999.7 861.032 1009.67C925.166 1018.33 985.399 1070.33 1056.03 1085.5"
                 stroke="#6D5F5E"
@@ -1914,6 +2022,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M39.8665 1109.77C140.4 1078.57 122.2 1127.53 254.8 1110.2C313.3 1102.4 380.033 1054.3 460.633 1050.83C524.333 1048.23 594.966 1089.4 670.8 1092.43C736.666 1095.03 809.466 1058.2 883.566 1066.43C949.866 1073.8 1013.13 1125.37 1085.5 1138.37"
                 stroke="#6D5F5E"
@@ -1925,6 +2034,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M41.5994 1159.17C146.899 1135.77 126.533 1183.87 261.733 1170C322.399 1163.5 391.733 1115.4 473.633 1112.37C539.499 1109.77 611.866 1152.23 689.433 1153.97C757.466 1155.7 831.566 1116.7 906.966 1123.2C975.866 1129.27 1042.17 1179.97 1115.83 1191.23"
                 stroke="#6D5F5E"
@@ -1936,6 +2046,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M42.8994 1209C152.099 1192.1 129.999 1240.2 267.366 1229.37C330.199 1224.6 402.133 1176.07 485.333 1173.47C553.366 1171.3 627.899 1214.63 706.333 1215.93C776.533 1216.8 851.933 1175.63 928.633 1180.4C999.699 1184.73 1069.47 1235 1144.87 1243.67"
                 stroke="#6D5F5E"
@@ -1947,6 +2058,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M43.7659 1258.83C156.433 1248 133.033 1295.67 272.566 1288.3C337.566 1284.83 412.099 1236.73 497.033 1235C567.233 1233.27 643.499 1277.9 723.666 1278.33C796.033 1278.77 873.166 1235 950.732 1238.47C1024.83 1241.5 1097.63 1290.9 1173.9 1296.53"
                 stroke="#6D5F5E"
@@ -1958,6 +2070,7 @@ const outfit23 = (transform: string) => {
             </G>
             <G opacity="0.25">
               <Path
+                fill={'none'}
                 opacity="0.25"
                 d="M45.0662 1309.1C160.766 1303.9 136.066 1351.13 278.633 1347.23C345.366 1345.5 422.933 1297.4 509.599 1296.1C581.966 1295.23 660.399 1340.73 741.866 1340.73C816.833 1340.73 895.266 1295.23 974.133 1296.53C1050.83 1297.83 1127.1 1346.37 1204.67 1349.4"
                 stroke="#6D5F5E"

@@ -33,7 +33,7 @@ export type TAvatarEyes =
   | 'Sad'
   | 'Angry'
   | 'Normal';
-export type TAvatarFace = 'Blush' | 'Bear' | 'Normal';
+export type TAvatarFace = 'Blush' | 'Beard' | 'Normal';
 export type TAvatarMouth =
   | 'Normal Smile'
   | 'Normal Thin'

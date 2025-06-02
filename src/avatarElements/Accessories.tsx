@@ -141,7 +141,7 @@ const futuristicGlasses = (alone: boolean) => {
 const glasses = (alone: boolean) => {
   const transform = alone ? 'scale(1.8) translate(-370,-260)' : '';
   return (
-    <G transform={transform} mask="url(#mask0_26_635)">
+    <G transform={transform} mask="url(#mask0_26_635)" fill={'none'}>
       <Path
         d="M749.232 669.067H648.266C621.832 669.067 600.599 647.834 600.599 621.4V580.234C600.599 553.8 621.832 532.567 648.266 532.567H749.232C775.666 532.567 796.899 553.8 796.899 580.234V621.4C796.899 647.834 775.232 669.067 749.232 669.067Z"
         stroke="#423232"
@@ -186,6 +186,7 @@ const mask = (alone: boolean) => {
         fill="white"
       />
       <Path
+        fill="#EDF3F4"
         d="M717.919 684.748C717.919 684.748 900.352 767.081 915.952 707.281"
         stroke="#EDF3F4"
         stroke-width="13"
@@ -194,6 +195,7 @@ const mask = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#EDF3F4"
         d="M644.252 743.682C644.252 743.682 828.419 848.982 911.185 791.782"
         stroke="#EDF3F4"
         stroke-width="13"
@@ -202,6 +204,7 @@ const mask = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#EDF3F4"
         d="M637.752 818.215C637.752 818.215 732.652 903.581 869.152 872.815"
         stroke="#EDF3F4"
         stroke-width="13"
@@ -210,6 +213,7 @@ const mask = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#EDF3F4"
         d="M662.885 692.114C662.885 692.114 644.685 717.247 637.319 783.547C628.652 863.281 666.352 929.581 666.352 929.581"
         stroke="#EDF3F4"
         stroke-width="13"
@@ -218,6 +222,7 @@ const mask = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#EDF3F4"
         d="M602.651 695.581C602.651 695.581 552.818 660.914 517.718 601.114"
         stroke="white"
         stroke-width="13"
@@ -226,6 +231,7 @@ const mask = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#EDF3F4"
         d="M492.152 735.881C502.118 768.381 526.818 821.248 589.218 868.915"
         stroke="white"
         stroke-width="13"
@@ -239,7 +245,7 @@ const mask = (alone: boolean) => {
 const stylishGlasses = (alone: boolean) => {
   const transform = alone ? 'scale(1.8) translate(-370,-260)' : '';
   return (
-    <G transform={transform} mask="url(#mask0_26_635)">
+    <G transform={transform} mask="url(#mask0_26_635)" fill={'none'}>
       <Path
         opacity="0.6"
         d="M747.933 670.912C747.933 670.912 707.199 696.479 661.266 696.045C615.333 695.612 609.699 659.645 609.266 640.145C609.266 640.145 615.333 668.312 643.066 678.712C670.366 689.112 747.933 670.912 747.933 670.912Z"
@@ -353,6 +359,7 @@ const maskGoogle = (alone: boolean) => {
         fill="#BABABA"
       />
       <Path
+        fill="#A0A0A0"
         d="M669.501 783.9L667.334 867.534"
         stroke="#A0A0A0"
         stroke-width="13"
@@ -389,6 +396,7 @@ const maskGoogle = (alone: boolean) => {
         fill="#E8E8E8"
       />
       <Path
+        fill="#A0A0A0"
         d="M678.167 674.7C678.167 674.7 597.134 673.4 530.4 623.134"
         stroke="white"
         stroke-width="13"
@@ -397,6 +405,7 @@ const maskGoogle = (alone: boolean) => {
         stroke-linejoin="round"
       />
       <Path
+        fill="#A0A0A0"
         d="M620.534 807.3C620.534 807.3 554.667 789.967 490.1 737.967"
         stroke="white"
         stroke-width="13"
@@ -469,6 +478,7 @@ const cap = (alone: boolean) => {
         fill="white"
       />
       <Path
+        fill={'none'}
         d="M570.351 475.031C593.317 436.897 640.984 388.364 736.751 382.297C820.817 377.097 882.784 393.131 924.817 411.331"
         stroke="#E8E7E6"
         stroke-width="13"
@@ -483,7 +493,7 @@ const cap = (alone: boolean) => {
 const roundedGlasses = (alone: boolean) => {
   const transform = alone ? 'scale(1.8) translate(-370,-260)' : '';
   return (
-    <G transform={transform} mask="url(#mask0_26_635)">
+    <G transform={transform} mask="url(#mask0_26_635)" fill={'none'}>
       <Path
         opacity="0.6"
         d="M865.083 677.253C865.083 677.253 870.283 706.72 904.516 721.453C913.183 724.92 922.283 719.287 922.283 709.753C921.849 709.753 867.249 680.72 865.083 677.253Z"

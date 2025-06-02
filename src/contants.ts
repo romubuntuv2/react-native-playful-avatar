@@ -25,7 +25,7 @@ export const AVATAR_ELEMENTS: TAvatarElements = {
   ],
   face: [
     { name: 'Blush', type: 'face' },
-    { name: 'Bear', type: 'face' },
+    { name: 'Beard', type: 'face' },
     { name: 'Normal', type: 'face' },
   ],
   mouth: [

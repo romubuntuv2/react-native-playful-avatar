@@ -124,7 +124,7 @@ The options can be passed as React props. It is defines as TUserConfig.
 | `backgroundColor`| string |       |                                              | Use Hex colors       |
 | `accessory`    | TAvatarAccessory |         | Rounded Glasses,Simple Earring,Glasses,Futuristic Glasses,Stylish Glasses,Mask,Earring,Cap,Circle Earring,Mask Google,Moustache,Earphone|                      |
 | `eyes`         | TAvatarEyes |         |Thin, Closed, Cynic, Sad, Angry, Normal       |                      |
-| `face`         | TAvatarFace |         |  Blush, Bear, Normal                         |                      |
+| `face`         | TAvatarFace |         |  Blush, Beard, Normal                         |                      |
 | `faceColor`    | string |         |                                              |Use Hex colors            |
 | `mouth`        | TAvatarMouth |         | Normal Smile, Normal Thin, Eat, Open Mouth Open Tooth, Sad, Angry, Cute, Hate, Smiliey |                      |
 | `outfit`       | TAvatarOutfit |         | Blue hoodie, Retro yellow polo, Classic suit with red tie, Pastel blue sweater, Aviator jacket, Grey sweater with white scarf, Green sweater with yellow polka dots, Striped purple cardigan, Red sweater with white diamonds,  Pink sweater with round patterns, Purple sweater with Peter Pan collar,  Chic jacket with gold pendant, Blue overalls with green buttons, Black sweater with floral white collar, Black top with geometric patterns, Black buttoned tank top, Yellow top with black pompoms, Orange top with festive patterns, Simple purple sweater, Classic blue overalls, Black shirt with white collar, Black top with wavy stripes, Brown pinafore dress

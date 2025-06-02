@@ -1,6 +1,6 @@
 {
   "name": "react-native-playful-avatar",
-  "version": "0.0.15",
+  "version": "1.0.0",
   "description": "Make Playful Avatar for your React Native apps",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -38,6 +38,7 @@
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "clean": "del-cli lib",
     "prepare": "bob build",
+    "update": "del-cli lib && bob build && yalc push",
     "release": "release-it --only-version"
   },
   "keywords": [
