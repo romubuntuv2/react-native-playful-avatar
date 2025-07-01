@@ -20,7 +20,7 @@ import { genConfig } from './utils/avatarUtils';
 import { View, type ViewStyle } from 'react-native';
 import Svg, { Rect } from 'react-native-svg';
 
-interface PlayfulAvatarProps {
+export interface PlayfulAvatarProps {
   style: ViewStyle;
   backgroundColor?: string;
   backgroundShape?: TAvatarBackgroundShape;
@@ -115,4 +115,4 @@ const PlayfulAvatar = ({
   );
 };
 
-export default PlayfulAvatar;
+export { PlayfulAvatar };
